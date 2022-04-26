@@ -1,0 +1,61 @@
+.description{
+    background-color: white;
+    height: 100vh;
+}
+.photo{
+    background-color: #272A35;
+    height: 100vh;
+}
+.title-box{
+    text-align: center;
+}
+.title{
+    color: #272A35;
+    font-size: 3.5rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+.picture-box{
+    text-align: center;
+    padding-top: 35%;;
+}
+.picture{
+    border-radius: 50%;
+}
+.area-box{
+    text-align: center;
+}
+.area{
+    color: #272A35;
+    font-size: 1rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+.who-box{
+    text-align: center;
+    padding-top: 5%;
+}
+.who{
+    font-size: 1.5rem;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+.about-box{
+    text-align: center;
+}
+.work-box{
+    padding-top: 2%;
+    text-align: center;
+}
+.about{
+    color: #272A35;
+    font-size: 1rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+.contact-box{
+    text-align: center;
+    padding-top: 2%;
+}
+.projects{
+    padding-top: 2%;
+    text-align: center;
+    color: white;
+}
